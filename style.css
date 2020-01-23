@@ -1,0 +1,17 @@
+.col-12 {
+    margin: 20px;
+    width: 100%;
+}
+
+body {
+    background-color: skyblue;
+    color: white;
+}
+
+.psw {
+    margin-left: -17px;
+}
+
+.btn-primary {
+    width: 100%;
+}
